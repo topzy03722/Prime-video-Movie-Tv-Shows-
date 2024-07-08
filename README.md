@@ -29,5 +29,16 @@ This repository features a Prime Video Analytics Dashboard that provides detaile
   - Inform content acquisition and programming strategies.
 
 # Steps Taken
+ 1. Data Collection: Gathered relevant data from Prime Video. 
+ 2. Data Preparation: Cleaned and preprocessed the data
+ 3. Data Analysis: Conducted exploratory data analysis.
+ 4. Define Key Metrics: Identified key metrics for the dashboard.
+ 5. Design Visualizations: Selected effective visualizations.
+ 6. Creat Dashboard Layout: Designed an intuitive Power BI layout.
+ 7. Implemet Visualization: Added visualizations to the dashboard.
+ 8. Test and Validate: Ensured accuracy and functionality.
+ 9. Deploy and Share: Published and shared the dashboard.
 
+## Contributing
+   - Contributions are welcome! Please fork the repository, make changes, and submit a pull request.
   
